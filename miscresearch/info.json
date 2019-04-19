@@ -1,0 +1,13 @@
+{
+	"title": "miscresearch",
+	"logo" : "logo.png",
+	"about" : "",
+	"menu" : {
+		"About" : "https://docs.google.com/document/d/16_jikyP9LfNibSOvM4XPeuB2jhf8YEYES1p8xhTBBDM/edit?usp=sharing",
+		"Download" : "https://docs.google.com/document/d/1aKVEphpLq3UUBkhoStJVhmkiOWRQmALAj-bphbk-KTU/",
+		"Slides" : "https://docs.google.com/presentation/d/1gdX17MpgdyhiAQKTPehMWEYf914cYF4GtuY7m1jD7Qo/embed?start=true&loop=true&delayms=5000",
+		"PDF" : "http://www.nasa.gov/pdf/373665main_NASA-SP-2009-566.pdf",
+		"Youtube" : "https://www.youtube.com/embed/Sdi2S1PHS_s",
+		"Wikipedia" : "https://en.wikipedia.org/wiki/Web_page"
+	}
+}
